@@ -1,0 +1,11 @@
+{
+  "name": "react-native-macos-open-app",
+  "version": "1.0.0",
+  "description": "Uses NSWorkspace to open a given app on macOS",
+  "main": "index.macos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alehlopeh",
+  "license": "MIT"
+}
